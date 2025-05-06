@@ -44,4 +44,3 @@ Al ejecutar el programa, se mostrará en consola una lista de todos los solapami
 ## 💬 Comentarios
 
 Este proyecto está documentado en el propio código usando `/// <summary>` para facilitar la comprensión rápida del propósito de cada clase y método.
-```
